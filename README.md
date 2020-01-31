@@ -1,4 +1,4 @@
-# HyperCasualGameRemaster
+# HyperCasualGame
  
 Installing:
 
